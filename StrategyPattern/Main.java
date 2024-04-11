@@ -18,5 +18,8 @@ public class Main {
 
         Vehicle vehicle4 = new CargoVehicle();
         vehicle4.drive();
+
+        Vehicle vehicle5 = new GoodsVehicle();
+        vehicle5.drive();
     }
 }
