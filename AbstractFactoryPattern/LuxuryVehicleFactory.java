@@ -1,4 +1,4 @@
-package lld_preperation.AbstractFactoryPattern;
+package AbstractFactoryPattern;
 
 public class LuxuryVehicleFactory implements VehicleFactory {
     public Vehicle getVehicleInstance(String vehicleType) {

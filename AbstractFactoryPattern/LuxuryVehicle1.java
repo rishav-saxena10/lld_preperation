@@ -1,4 +1,4 @@
-package lld_preperation.AbstractFactoryPattern;
+package AbstractFactoryPattern;
 
 public class LuxuryVehicle1 implements Vehicle {
 

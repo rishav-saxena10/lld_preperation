@@ -1,4 +1,4 @@
-package lld_preperation.StrategyPattern.Strategy;
+package StrategyPattern.Strategy;
 public class SportsDriveStrategy implements DriveStrategy {
 
     @Override

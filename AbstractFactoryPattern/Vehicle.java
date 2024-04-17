@@ -1,4 +1,4 @@
-package lld_preperation.AbstractFactoryPattern;
+package AbstractFactoryPattern;
 
 public interface Vehicle {
     public void drive();

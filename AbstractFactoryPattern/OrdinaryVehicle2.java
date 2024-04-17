@@ -1,4 +1,4 @@
-package lld_preperation.AbstractFactoryPattern;
+package AbstractFactoryPattern;
 
 public class OrdinaryVehicle2 implements Vehicle {
     @Override

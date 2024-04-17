@@ -1,5 +1,5 @@
-package lld_preperation.StrategyPattern;
-import lld_preperation.StrategyPattern.Strategy.DriveStrategy;
+package StrategyPattern;
+import StrategyPattern.Strategy.DriveStrategy;
 
 public class Vehicle {
     DriveStrategy driveStrategy;

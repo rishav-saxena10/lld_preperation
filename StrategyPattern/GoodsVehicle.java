@@ -1,5 +1,5 @@
-package lld_preperation.StrategyPattern;
-import lld_preperation.StrategyPattern.Strategy.NormalDriveStrategy;
+package StrategyPattern;
+import StrategyPattern.Strategy.NormalDriveStrategy;
 
 public class GoodsVehicle extends Vehicle  {
 

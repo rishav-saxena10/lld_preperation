@@ -1,4 +1,4 @@
-package lld_preperation.FactoryPattern;
+package FactoryPattern;
 
 public class Rectangle implements Shape {
 

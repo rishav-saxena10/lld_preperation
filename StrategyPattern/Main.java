@@ -1,4 +1,4 @@
-package lld_preperation.StrategyPattern;
+package StrategyPattern;
 // Youtube link for reference: https://www.youtube.com/watch?v=u8DttUrXtEw&list=PL6W8uoQQ2c61X_9e6Net0WdYZidm7zooW&index=4
 // Idea: The Strategy Pattern defines a family of algorithms, encapsulates each one, and makes them interchangeable. 
 // Strategy lets the algorithm vary independently from clients that use it.

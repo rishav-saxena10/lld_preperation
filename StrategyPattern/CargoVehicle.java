@@ -1,9 +1,9 @@
-package lld_preperation.StrategyPattern;
-import lld_preperation.StrategyPattern.Strategy.BulletDriveStartegy;
+package StrategyPattern;
+import StrategyPattern.Strategy.BulletDriveStrategy;
 
 public class CargoVehicle extends Vehicle {
 
     public CargoVehicle() {
-        super(new BulletDriveStartegy());
+        super(new BulletDriveStrategy());
     }
 }
